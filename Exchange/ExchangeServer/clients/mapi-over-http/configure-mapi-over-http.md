@@ -110,7 +110,7 @@ Logs for MAPI over HTTP activity are at the following locations:
 
 - %ExchangeInstallPath%Logging\MAPI Address Book Service\
 
-- %ExchangeInstallPath%Logging\MAPI Client Access\
+- %ExchangeInstallPath%Logging\MapiHttp\Mailbox
 
 - %ExchangeInstallPath%Logging\HttpProxy\Mapi\
 
